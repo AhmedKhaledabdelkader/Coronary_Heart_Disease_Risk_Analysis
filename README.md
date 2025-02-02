@@ -3,3 +3,5 @@ This project focuses on analyzing risk factors associated with Coronary Heart Di
 
 
 ### orginal dataset used for this analysis: https://www.kaggle.com/datasets/noeyislearning/framingham-heart-study
+
+### Dashboard Link: https://coronary-heart-disease-risk-analysis.streamlit.app/
